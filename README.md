@@ -1,5 +1,4 @@
-# ruby-cli-template
-
-Use this repository as a template for your Ruby CLI (command line interface) project.
-
-- Ruby version: `3.2.1`
+# Shopping List CLI
+This is a shopping list CLI app that will allow users to maintain a shopping list for items to purchase
+## Usage
+- Enter 'ruby main.rb' in the terminal
